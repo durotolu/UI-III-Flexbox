@@ -64,3 +64,103 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+
+
+#body {
+	border: 3px solid black;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#header {
+	border: 3px solid blue;
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#nav {
+	border: 3px solid red;
+}
+
+#greatIdea {
+	border: 3px solid green;
+}
+.nav-link {
+	color: grey;
+	margin: 33px;
+	border-top: 15px;
+}
+#section2 {
+	border: 2px solid brown;
+	display: flex;
+	justify-content: space-between;
+}
+#div1 {
+	border: 3px solid grey;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#innovation {
+	border: 3px solid green;
+	text-align: center;
+	font-size: 50px;
+	width: 450px;
+}
+#getStarted {
+	border: 2px solid black;
+	width: 100px;
+	margin-left: 160px;
+	text-align: center;
+}
+#round {
+	border :3px solid pink;
+	display: inline-block;
+	width: 450px;
+	text-align: center;
+}
+.div2 {
+	border: 3px solid purple;
+	display: inline-block;
+	width: 450px;
+	margin: 20px;
+}
+.mid-img {
+	border: 3px solid yellow;
+	text-align: center;
+}
+.middle-img {
+	width: 950px;
+	margin: 0 auto;
+}
+.div3 {
+	display: inline-block;
+	width: 280px;
+	margin: 20px;
+}
+#Section3 {
+	display: flex;
+	justify-content: space-between;
+	border-top: 1px solid black;	
+}
+#Section5 {
+	border-bottom: 1px solid black;
+	display: flex;
+	justify-content: space-between;
+}
+p {
+	margin: 25px 0;
+}
+#address {
+	margin: 50px 0 0 0px;
+}
+#copyright {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 90px;
+}
+#inno {
+	text-align: center;
+}
