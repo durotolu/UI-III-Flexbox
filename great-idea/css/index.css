@@ -164,3 +164,22 @@ p {
 #inno {
 	text-align: center;
 }
+.courses {
+	background-color: rgb(192, 189, 189);
+	border: 2px solid purple;
+	display: flex;
+	justify-content: space-around;
+}
+.cos {
+	border: 1px solid black;
+}
+.learn {
+	border: 2px solid black;
+	width: 85px;
+}
+.mid-img.iphone {
+	display: flex;
+}
+.services-header-img {
+	width: 1000px;
+}
