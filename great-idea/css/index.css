@@ -183,3 +183,9 @@ p {
 .services-header-img {
 	width: 1000px;
 }
+@media (max-width: 200px) {
+	/* For mobile phones: */
+	.body {
+	  width: 30%;
+	}
+  }
